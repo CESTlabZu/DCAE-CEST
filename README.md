@@ -7,4 +7,6 @@ Key words: Chemical exchange saturation transfer (CEST), amide proton transfer (
 
 Contributors: DCAE-CEST: Yashwant Kurmi, Malvika Viswanathan, Zhongliang Zu
 
+https://github.com/CESTlabZu/DCAE-CEST
+
 [![View DCAE-CEST on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/167446-dcae-cest)
