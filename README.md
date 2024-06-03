@@ -5,4 +5,6 @@ DCAE-CEST: : The DCAE-CEST method can learn the most important features of the C
 
 Key words: Chemical exchange saturation transfer (CEST), amide proton transfer (APT), nuclear Overhauser effect, deep learning, denoising convolutional autoencoder (DCAE), tumor
 
+Contributors: DCAE-CEST: Yashwant Kurmi, Malvika Viswanathan, Zhongliang Zu
+
 [![View DCAE-CEST on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/167446-dcae-cest)
