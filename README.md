@@ -1,4 +1,4 @@
-# DCAE-CEST (MATLAB CODE)
+# DCAE-CEST (MATLAB Code)
 Enhancing SNR in Chemical Exchange Saturation Transfer imaging: a Deep Learning Approach with a Denoising Convolutional Autoencoder (DCAE-CEST)
 
 DCAE-CEST: : The DCAE-CEST method can learn the most important features of the CEST Z-spectrum and provide the effective denoising solution with high fidelity of the data.
