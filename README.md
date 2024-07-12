@@ -1,7 +1,7 @@
 # DCAE-CEST (MATLAB Code)
-Enhancing SNR in Chemical Exchange Saturation Transfer imaging: a Deep Learning Approach with a Denoising Convolutional Autoencoder (DCAE-CEST)
+Enhancing SNR in CEST imaging: A deep learning approach with a denoising convolutional autoencoder (DCAE-CEST)
 
-DCAE-CEST: : The DCAE-CEST method can learn the most important features of the CEST Z-spectrum and provide the effective denoising solution with high fidelity of the data.
+DCAE-CEST: The DCAE-CEST method can learn the most important features of the CEST Z-spectrum and provide the effective denoising solution with high fidelity of the data.
 
 Key words: Chemical exchange saturation transfer (CEST), amide proton transfer (APT), nuclear Overhauser effect, deep learning, denoising convolutional autoencoder (DCAE), tumor
 
