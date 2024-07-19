@@ -1,5 +1,5 @@
 # DCAE-CEST (MATLAB Code)
-How to cite
+How to cite: : 
 Kurmi Y, Viswanathan M, Zu Z. Enhancing SNR in CEST imaging: A deep learning approach with a denoising convolutional autoencoder. Magn Reson Med. 2024; 1-16. doi: 10.1002/mrm.30228
 
 DCAE-CEST: The DCAE-CEST method can learn the most important features of the CEST Z-spectrum and provide the effective denoising solution with high fidelity of the data.
